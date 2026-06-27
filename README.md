@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Husain Alnaser 👋</h1>
 <h3 align="center">Cybersecurity Student · Full Stack Developer · CTF Player</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black"/>
-</p>
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black)
 
 ---
 
