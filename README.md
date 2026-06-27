@@ -3,8 +3,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/husain-alnaser-bh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black"/>
 </p>
 
 ---
