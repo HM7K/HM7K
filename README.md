@@ -68,7 +68,7 @@ GRC & Compliance          ███░░░░░░░  Learning
 | Project | Description | Stack |
 |--------|-------------|-------|
 | **Social Network App** | Real-time social networking app with auth, posts, groups, and chat | Go, React, Next.js, SQLite, WebSockets |
-| **GraphQL Backend** | Backend project implementing GraphQL APIs and data management | Go, GraphQL, JavaScript |
+| **GraphQL** | Frontend interface consuming a provided GraphQL API — built queries to fetch and display data | GraphQL, JavaScript |
 
 ---
 
