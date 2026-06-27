@@ -61,7 +61,7 @@ GRC & Compliance          ███░░░░░░░  Learning
 |--------|-------------|-------|
 | **AI-Powered IDS** | ML-based intrusion detection system for classifying malicious network traffic in real time | Python, ML, Network Analysis |
 | **SOC & Threat Intelligence** | Security Operations Center integrating Wazuh SIEM, threat intelligence feeds, and SOAR automation | Wazuh, VirusTotal, AlienVault OTX, AbuseIPDB, Shuffle |
-| **Ethical Hacking Lab** | Penetration testing against controlled lab environments following the full pentest lifecycle |  |
+| **Ethical Hacking Lab** | Penetration testing against controlled lab environments following the full pentest lifecycle | Kali Linux, Nmap, Greenbone (OpenVAS), Burp Suite, Metasploit |
 
 ### 🌐 Development Projects
 
