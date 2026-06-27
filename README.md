@@ -16,7 +16,7 @@ I'm a **Cybersecurity student** at Bahrain Polytechnic with a passion for buildi
 - 🎓 Studying **Bachelor of Cyber Security** at Bahrain Polytechnic — graduating June 2027
 - 🔭 Currently working on: **AI-Powered Intrusion Detection System** — ML-based system for detecting and classifying malicious network traffic in real time
 - 🌱 Learning: **Go · Rust · React · Next.js · GraphQL · Threat Intelligence · Ethical Hacking · GRC**
-- 🏆 CTF player on HackTheBox & TryHackMe — ← ADD YOUR RANK/LEVEL
+- 🏆 CTF player on HackTheBox & TryHackMe — 
 - 📫 Reach me at: **husain.m.alnaser@gmail.com**
 - 💼 Open to: internships, part-time roles, and security research collaborations
 
@@ -62,7 +62,7 @@ Malware Analysis          ██░░░░░░░░  Beginner
 |--------|-------------|-------|
 | **AI-Powered IDS** | ML-based intrusion detection system for classifying malicious network traffic in real time | Python, ML, Network Analysis |
 | **SOC & Threat Intelligence** | Security Operations Center integrating Wazuh SIEM, threat intelligence feeds, and SOAR automation | Wazuh, VirusTotal, AlienVault OTX, AbuseIPDB, Shuffle |
-| **Ethical Hacking Lab** | Penetration testing against controlled lab environments following the full pentest lifecycle | ← ADD TOOLS USED |
+| **Ethical Hacking Lab** | Penetration testing against controlled lab environments following the full pentest lifecycle |  |
 
 ### 🌐 Development Projects
 
