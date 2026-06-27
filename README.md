@@ -16,7 +16,6 @@ I'm a **Cybersecurity student** at Bahrain Polytechnic with a passion for buildi
 - 🎓 Studying **Bachelor of Cyber Security** at Bahrain Polytechnic — graduating June 2027
 - 🔭 Currently working on: **AI-Powered Intrusion Detection System** — ML-based system for detecting and classifying malicious network traffic in real time
 - 🌱 Learning: **Go · Rust · React · Next.js · GraphQL · Threat Intelligence · Ethical Hacking · GRC**
-- 🏆 CTF player on HackTheBox & TryHackMe — 
 - 📫 Reach me at: **husain.m.alnaser@gmail.com**
 - 💼 Open to: internships, part-time roles, and security research collaborations
 
