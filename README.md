@@ -24,11 +24,11 @@ I'm a **Cybersecurity student** at Bahrain Polytechnic with a passion for buildi
 ## 🛡️ Cybersecurity Focus
 
 ```
-Penetration Testing       ████░░░░░░  Learning
-Web Application Security  ████░░░░░░  Learning
 Network Security          ███████░░░  Intermediate
-Digital Forensics         ██░░░░░░░░  Beginner
-Malware Analysis          ██░░░░░░░░  Beginner
+Ethical Hacking           █████░░░░░  Intermediate
+Threat Intelligence       █████░░░░░  Intermediate
+Security Testing          ████░░░░░░  Learning
+GRC & Compliance          ███░░░░░░░  Learning
 ```
 
 **Tools & Platforms**
