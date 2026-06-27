@@ -34,7 +34,7 @@ Malware Analysis          ██░░░░░░░░  Beginner
 
 **Tools & Platforms**
 
-<p><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Wazuh_SIEM-005571?style=flat&logo=elastic&logoColor=white"/> <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white"/> <img src="https://img.shields.io/badge/AlienVault_OTX-738ADB?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/AbuseIPDB-CC0000?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Shuffle_SOAR-FF6B35?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white"/></p>
+<p><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Wazuh_SIEM-005571?style=flat&logo=elastic&logoColor=white"/> <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white"/> <img src="https://img.shields.io/badge/AlienVault_OTX-738ADB?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/AbuseIPDB-CC0000?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Shuffle_SOAR-FF6B35?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white"/></p>
 
 ---
 
