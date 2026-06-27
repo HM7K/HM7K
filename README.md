@@ -34,14 +34,7 @@ Malware Analysis          ██░░░░░░░░  Beginner
 
 **Tools & Platforms**
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wazuh_SIEM-005571?style=flat&logo=elastic&logoColor=white"/>
-<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white"/>
-<img src="https://img.shields.io/badge/AlienVault_OTX-738ADB?style=flat&logoColor=white"/>
-<img src="https://img.shields.io/badge/AbuseIPDB-CC0000?style=flat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shuffle_SOAR-FF6B35?style=flat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white"/>
+<p><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Wazuh_SIEM-005571?style=flat&logo=elastic&logoColor=white"/> <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white"/> <img src="https://img.shields.io/badge/AlienVault_OTX-738ADB?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/AbuseIPDB-CC0000?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Shuffle_SOAR-FF6B35?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white"/></p>
 
 ---
 
@@ -49,23 +42,15 @@ Malware Analysis          ██░░░░░░░░  Beginner
 
 **Frontend**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/></p>
 
 **Backend**
 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<p><img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></p>
 
 **DevOps & Tools**
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux_Ubuntu_%26_Kali-FCC624?style=flat&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white"/>
+<p><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Linux_Ubuntu_%26_Kali-FCC624?style=flat&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white"/></p>
 
 ---
 
