@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Husain Alnaser 👋</h1>
-<h3 align="center">Cybersecurity Student · Full Stack Developer</h3>
+<h3 align="center">Cybersecurity Student · Full Stack Developer · CTF Player</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/husain-alnaser-bh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black"/>
 </p>
 
 ---
@@ -14,6 +16,7 @@ I'm a **Cybersecurity student** at Bahrain Polytechnic with a passion for buildi
 - 🎓 Studying **Bachelor of Cyber Security** at Bahrain Polytechnic — graduating June 2027
 - 🔭 Currently working on: **AI-Powered Intrusion Detection System** — ML-based system for detecting and classifying malicious network traffic in real time
 - 🌱 Learning: **Go · Rust · React · Next.js · GraphQL · Threat Intelligence · Ethical Hacking · GRC**
+- 🏆 CTF player on HackTheBox & TryHackMe — ← ADD YOUR RANK/LEVEL
 - 📫 Reach me at: **husain.m.alnaser@gmail.com**
 - 💼 Open to: internships, part-time roles, and security research collaborations
 
@@ -76,46 +79,29 @@ Malware Analysis          ██░░░░░░░░  Beginner
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [**AI-Powered IDS**](https://github.com/HM7K/ADDREPONAME) | ML-based intrusion detection system for classifying malicious network traffic in real time | Python, ML, Network Analysis |
-| [**SOC & Threat Intelligence**](https://github.com/HM7K/ADDREPONAME) | Security Operations Center integrating Wazuh SIEM, threat intelligence feeds, and SOAR automation | Wazuh, VirusTotal, AlienVault OTX, AbuseIPDB, Shuffle |
-| [**Ethical Hacking Lab**](https://github.com/HM7K/ADDREPONAME) | Penetration testing against controlled lab environments following the full pentest lifecycle | ← ADD TOOLS USED |
+| **AI-Powered IDS** | ML-based intrusion detection system for classifying malicious network traffic in real time | Python, ML, Network Analysis |
+| **SOC & Threat Intelligence** | Security Operations Center integrating Wazuh SIEM, threat intelligence feeds, and SOAR automation | Wazuh, VirusTotal, AlienVault OTX, AbuseIPDB, Shuffle |
+| **Ethical Hacking Lab** | Penetration testing against controlled lab environments following the full pentest lifecycle | ← ADD TOOLS USED |
 
 ### 🌐 Development Projects
 
-| Project | Description | Stack | Live |
-|--------|-------------|-------|------|
-| [**Social Network App**](https://github.com/HM7K/social-network) | Real-time social networking app with auth, posts, groups, and chat | Go, React, Next.js, SQLite, WebSockets | — |
-| [**GraphQL**](https://github.com/HM7K/Graphql) | implementing GraphQL and data management | GraphQL, JavaScript | — |
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **Social Network App** | Real-time social networking app with auth, posts, groups, and chat | Go, React, Next.js, SQLite, WebSockets |
+| **GraphQL Backend** | Backend project implementing GraphQL APIs and data management | Go, GraphQL, JavaScript |
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-- 🎯 Currently building toward my first certification ← ADD ONCE YOU DECIDE
-- 🌐 TryHackMe: ← ADD YOUR RANK/ROOM COUNT
-- 🧩 HackTheBox: ← ADD YOUR LEVEL
+Currently in the early stages of my cybersecurity journey — focused on building hands-on skills through university projects, lab environments, and self-study before pursuing formal certifications.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HM7K&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HM7K&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HM7K&theme=dark&hide_border=true"/>
-</p>
+- 📚 Actively studying for my first certification
+- 🔬 Gaining practical experience through university security labs and personal projects
+- 🎯 Next milestone: completing CTF challenges on TryHackMe & HackTheBox
 
 ---
 
 ## ⚠️ Responsible Use Notice
 
 All security-related repositories in this profile are intended strictly for **educational purposes**, authorized lab environments, and CTF competitions. Nothing here should be used against systems without explicit written permission.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HM7K&color=blueviolet&style=flat" alt="Profile views"/>
-</p>
